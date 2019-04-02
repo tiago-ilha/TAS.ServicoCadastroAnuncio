@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  tas.sa.api:
+    image: ${DOCKER_REGISTRY-}tassaapi
+    build:
+      context: .
+      dockerfile: TAS.SA.Api/Dockerfile

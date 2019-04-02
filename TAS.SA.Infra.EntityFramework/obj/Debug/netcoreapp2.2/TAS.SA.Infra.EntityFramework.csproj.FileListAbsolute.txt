@@ -1,0 +1,12 @@
+C:\Users\tiago.toliveira\source\repos\TAS.ServicoAnuncio\TAS.SA.Infra.EntityFramework\bin\Debug\netcoreapp2.2\TAS.SA.Dominio.dll
+C:\Users\tiago.toliveira\source\repos\TAS.ServicoAnuncio\TAS.SA.Infra.EntityFramework\obj\Debug\netcoreapp2.2\TAS.SA.Infra.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\tiago.toliveira\source\repos\TAS.ServicoAnuncio\TAS.SA.Infra.EntityFramework\obj\Debug\netcoreapp2.2\TAS.SA.Infra.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\tiago.toliveira\source\repos\TAS.ServicoAnuncio\TAS.SA.Infra.EntityFramework\obj\Debug\netcoreapp2.2\TAS.SA.Infra.EntityFramework.AssemblyInfo.cs
+C:\Users\tiago.toliveira\source\repos\TAS.ServicoAnuncio\TAS.SA.Infra.EntityFramework\bin\Debug\netcoreapp2.2\TAS.SA.Infra.EntityFramework.deps.json
+C:\Users\tiago.toliveira\source\repos\TAS.ServicoAnuncio\TAS.SA.Infra.EntityFramework\bin\Debug\netcoreapp2.2\TAS.SA.Infra.EntityFramework.dll
+C:\Users\tiago.toliveira\source\repos\TAS.ServicoAnuncio\TAS.SA.Infra.EntityFramework\bin\Debug\netcoreapp2.2\TAS.SA.Infra.EntityFramework.pdb
+C:\Users\tiago.toliveira\source\repos\TAS.ServicoAnuncio\TAS.SA.Infra.EntityFramework\bin\Debug\netcoreapp2.2\TAS.SA.Dominio.pdb
+C:\Users\tiago.toliveira\source\repos\TAS.ServicoAnuncio\TAS.SA.Infra.EntityFramework\obj\Debug\netcoreapp2.2\TAS.SA.Infra.EntityFramework.csprojAssemblyReference.cache
+C:\Users\tiago.toliveira\source\repos\TAS.ServicoAnuncio\TAS.SA.Infra.EntityFramework\obj\Debug\netcoreapp2.2\TAS.SA.Infra.EntityFramework.csproj.CopyComplete
+C:\Users\tiago.toliveira\source\repos\TAS.ServicoAnuncio\TAS.SA.Infra.EntityFramework\obj\Debug\netcoreapp2.2\TAS.SA.Infra.EntityFramework.dll
+C:\Users\tiago.toliveira\source\repos\TAS.ServicoAnuncio\TAS.SA.Infra.EntityFramework\obj\Debug\netcoreapp2.2\TAS.SA.Infra.EntityFramework.pdb
