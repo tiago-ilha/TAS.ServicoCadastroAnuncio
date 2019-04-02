@@ -1,0 +1,8 @@
+C:\Users\tiago.toliveira\source\repos\TAS.ServicoAnuncio\TAS.SA.Dominio\bin\Debug\netcoreapp2.2\TAS.SA.Dominio.deps.json
+C:\Users\tiago.toliveira\source\repos\TAS.ServicoAnuncio\TAS.SA.Dominio\bin\Debug\netcoreapp2.2\TAS.SA.Dominio.dll
+C:\Users\tiago.toliveira\source\repos\TAS.ServicoAnuncio\TAS.SA.Dominio\bin\Debug\netcoreapp2.2\TAS.SA.Dominio.pdb
+C:\Users\tiago.toliveira\source\repos\TAS.ServicoAnuncio\TAS.SA.Dominio\obj\Debug\netcoreapp2.2\TAS.SA.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\tiago.toliveira\source\repos\TAS.ServicoAnuncio\TAS.SA.Dominio\obj\Debug\netcoreapp2.2\TAS.SA.Dominio.AssemblyInfoInputs.cache
+C:\Users\tiago.toliveira\source\repos\TAS.ServicoAnuncio\TAS.SA.Dominio\obj\Debug\netcoreapp2.2\TAS.SA.Dominio.AssemblyInfo.cs
+C:\Users\tiago.toliveira\source\repos\TAS.ServicoAnuncio\TAS.SA.Dominio\obj\Debug\netcoreapp2.2\TAS.SA.Dominio.dll
+C:\Users\tiago.toliveira\source\repos\TAS.ServicoAnuncio\TAS.SA.Dominio\obj\Debug\netcoreapp2.2\TAS.SA.Dominio.pdb
