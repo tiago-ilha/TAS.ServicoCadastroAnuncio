@@ -9,13 +9,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dominio", "Dominio", "{A091
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra", "Infra", "{177D5AAC-C1DC-4156-AD97-54D9F2109DDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAS.SA.Api", "TAS.SA.Api\TAS.SA.Api.csproj", "{9534E838-688B-4515-984A-6940A9B96A6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TAS.SA.Api", "TAS.SA.Api\TAS.SA.Api.csproj", "{9534E838-688B-4515-984A-6940A9B96A6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAS.SA.Dominio", "TAS.SA.Dominio\TAS.SA.Dominio.csproj", "{995D6BEB-37C8-4F64-A633-4FD57AB99D66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TAS.SA.Dominio", "TAS.SA.Dominio\TAS.SA.Dominio.csproj", "{995D6BEB-37C8-4F64-A633-4FD57AB99D66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAS.SA.Infra.EntityFramework", "TAS.SA.Infra.EntityFramework\TAS.SA.Infra.EntityFramework.csproj", "{20393FF2-5201-40FD-BF1A-39B76E4830AF}"
-EndProject
-Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{13A5E50F-C8D5-439A-849A-A0178164B185}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TAS.SA.Infra.EntityFramework", "TAS.SA.Infra.EntityFramework\TAS.SA.Infra.EntityFramework.csproj", "{20393FF2-5201-40FD-BF1A-39B76E4830AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +33,6 @@ Global
 		{20393FF2-5201-40FD-BF1A-39B76E4830AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20393FF2-5201-40FD-BF1A-39B76E4830AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20393FF2-5201-40FD-BF1A-39B76E4830AF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{13A5E50F-C8D5-439A-849A-A0178164B185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{13A5E50F-C8D5-439A-849A-A0178164B185}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{13A5E50F-C8D5-439A-849A-A0178164B185}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{13A5E50F-C8D5-439A-849A-A0178164B185}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
